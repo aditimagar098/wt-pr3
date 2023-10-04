@@ -1,0 +1,10 @@
+Name   :Magar Aditi Shankar
+Std    :Third year
+Branch :AIML
+College:Alard college of Engineering and Management,pune
+
+
+Name   :Magar Atharv Shankar
+Std    :First year
+Branch :Electrical
+College: VAPM Latur
